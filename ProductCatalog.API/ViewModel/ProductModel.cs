@@ -9,7 +9,9 @@ namespace ProductCatalog.API.ViewModel
     public class ProductModel
     {
         private Product prod;
-        //sucess
+        //sucess ghh
+
+
         public List<Product> _products { get; set; }
         public List<Product> findAll()
         {
