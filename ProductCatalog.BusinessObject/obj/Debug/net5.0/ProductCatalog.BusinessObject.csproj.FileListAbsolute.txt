@@ -1,0 +1,12 @@
+D:\mobzone\ProductCatalog.BusinessObject\bin\Debug\net5.0\ProductCatalog.BusinessObject.deps.json
+D:\mobzone\ProductCatalog.BusinessObject\bin\Debug\net5.0\ProductCatalog.BusinessObject.dll
+D:\mobzone\ProductCatalog.BusinessObject\bin\Debug\net5.0\ref\ProductCatalog.BusinessObject.dll
+D:\mobzone\ProductCatalog.BusinessObject\bin\Debug\net5.0\ProductCatalog.BusinessObject.pdb
+D:\mobzone\ProductCatalog.BusinessObject\obj\Debug\net5.0\ProductCatalog.BusinessObject.csproj.AssemblyReference.cache
+D:\mobzone\ProductCatalog.BusinessObject\obj\Debug\net5.0\ProductCatalog.BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\mobzone\ProductCatalog.BusinessObject\obj\Debug\net5.0\ProductCatalog.BusinessObject.AssemblyInfoInputs.cache
+D:\mobzone\ProductCatalog.BusinessObject\obj\Debug\net5.0\ProductCatalog.BusinessObject.AssemblyInfo.cs
+D:\mobzone\ProductCatalog.BusinessObject\obj\Debug\net5.0\ProductCatalog.BusinessObject.csproj.CoreCompileInputs.cache
+D:\mobzone\ProductCatalog.BusinessObject\obj\Debug\net5.0\ProductCatalog.BusinessObject.dll
+D:\mobzone\ProductCatalog.BusinessObject\obj\Debug\net5.0\ref\ProductCatalog.BusinessObject.dll
+D:\mobzone\ProductCatalog.BusinessObject\obj\Debug\net5.0\ProductCatalog.BusinessObject.pdb
