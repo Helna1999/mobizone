@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\mobzone\\WebApp\\WebApp.csproj": {}
+    "C:\\mobzone\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "D:\\mobzone\\ProductCatalog.API\\ProductCatalog.API.csproj": {
+    "C:\\mobzone\\ProductCatalog.API\\ProductCatalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mobzone\\ProductCatalog.API\\ProductCatalog.API.csproj",
+        "projectUniqueName": "C:\\mobzone\\ProductCatalog.API\\ProductCatalog.API.csproj",
         "projectName": "ProductCatalog.API",
-        "projectPath": "D:\\mobzone\\ProductCatalog.API\\ProductCatalog.API.csproj",
-        "packagesPath": "C:\\Users\\lbalakrishnan\\.nuget\\packages\\",
-        "outputPath": "D:\\mobzone\\ProductCatalog.API\\obj\\",
+        "projectPath": "C:\\mobzone\\ProductCatalog.API\\ProductCatalog.API.csproj",
+        "packagesPath": "C:\\Users\\hskaria\\.nuget\\packages\\",
+        "outputPath": "C:\\mobzone\\ProductCatalog.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lbalakrishnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hskaria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,21 +63,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\mobzone\\WebApp\\WebApp.csproj": {
+    "C:\\mobzone\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mobzone\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\mobzone\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "D:\\mobzone\\WebApp\\WebApp.csproj",
-        "packagesPath": "C:\\Users\\lbalakrishnan\\.nuget\\packages\\",
-        "outputPath": "D:\\mobzone\\WebApp\\obj\\",
+        "projectPath": "C:\\mobzone\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\hskaria\\.nuget\\packages\\",
+        "outputPath": "C:\\mobzone\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lbalakrishnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hskaria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,8 +91,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\mobzone\\ProductCatalog.API\\ProductCatalog.API.csproj": {
-                "projectPath": "D:\\mobzone\\ProductCatalog.API\\ProductCatalog.API.csproj"
+              "C:\\mobzone\\ProductCatalog.API\\ProductCatalog.API.csproj": {
+                "projectPath": "C:\\mobzone\\ProductCatalog.API\\ProductCatalog.API.csproj"
               }
             }
           }
@@ -134,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

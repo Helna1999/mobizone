@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\mobzone\\ProductCatalog.EFRepository\\ProductCatalog.EFRepository.csproj": {}
+    "C:\\mobzone\\ProductCatalog.EFRepository\\ProductCatalog.EFRepository.csproj": {}
   },
   "projects": {
-    "D:\\mobzone\\ProductCatalog.EFRepository\\ProductCatalog.EFRepository.csproj": {
+    "C:\\mobzone\\ProductCatalog.EFRepository\\ProductCatalog.EFRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mobzone\\ProductCatalog.EFRepository\\ProductCatalog.EFRepository.csproj",
+        "projectUniqueName": "C:\\mobzone\\ProductCatalog.EFRepository\\ProductCatalog.EFRepository.csproj",
         "projectName": "ProductCatalog.EFRepository",
-        "projectPath": "D:\\mobzone\\ProductCatalog.EFRepository\\ProductCatalog.EFRepository.csproj",
-        "packagesPath": "C:\\Users\\lbalakrishnan\\.nuget\\packages\\",
-        "outputPath": "D:\\mobzone\\ProductCatalog.EFRepository\\obj\\",
+        "projectPath": "C:\\mobzone\\ProductCatalog.EFRepository\\ProductCatalog.EFRepository.csproj",
+        "packagesPath": "C:\\Users\\hskaria\\.nuget\\packages\\",
+        "outputPath": "C:\\mobzone\\ProductCatalog.EFRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lbalakrishnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hskaria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
