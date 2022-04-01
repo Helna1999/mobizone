@@ -8,7 +8,7 @@ namespace ProductCatalog.API.ViewModel
 {
     public class ProductModel
     {
-        private Product prod;
+       
         //sucess ghh
 
 
@@ -21,25 +21,41 @@ namespace ProductCatalog.API.ViewModel
                 {
                     Id ="1",
                     Name="SAMSUNG",
-                    price =200
+                    price =20000
 
                 },
                 new Product()
                 {
                     Id ="2",
-                    Name="nokia",
-                    price =250
+                    Name="NOKIA",
+                    price =25000
+
+                },
+                 new Product()
+                {
+                    Id ="3",
+                    Name="SONY",
+                    price =25000
+
+                },
+                  new Product()
+                {
+                    Id ="4",
+                    Name="REDMI",
+                    price =25000
+
+                },
+                   new Product()
+                {
+                    Id ="5",
+                    Name="Realme",
+                    price =20000
 
                 }
             };
             return _products;
         }
-        public Product find(string id)
-        {
-            List<Product> products = findAll();
-            var prod = products.Where(a => a.Id == id).FirstOrDefault();
-            return prod;
-        }
+        
     }
 }
 

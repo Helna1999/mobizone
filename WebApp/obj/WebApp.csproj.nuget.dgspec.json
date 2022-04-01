@@ -4,17 +4,17 @@
     "D:\\mobzone\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "D:\\mobzone\\WebApp\\WebApp.csproj": {
+    "D:\\mobzone\\ProductCatalog.API\\ProductCatalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mobzone\\WebApp\\WebApp.csproj",
-        "projectName": "WebApp",
-        "projectPath": "D:\\mobzone\\WebApp\\WebApp.csproj",
-        "packagesPath": "C:\\Users\\ashaji\\.nuget\\packages\\",
-        "outputPath": "D:\\mobzone\\WebApp\\obj\\",
+        "projectUniqueName": "D:\\mobzone\\ProductCatalog.API\\ProductCatalog.API.csproj",
+        "projectName": "ProductCatalog.API",
+        "projectPath": "D:\\mobzone\\ProductCatalog.API\\ProductCatalog.API.csproj",
+        "packagesPath": "C:\\Users\\lbalakrishnan\\.nuget\\packages\\",
+        "outputPath": "D:\\mobzone\\ProductCatalog.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ashaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lbalakrishnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +63,78 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\mobzone\\WebApp\\WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\mobzone\\WebApp\\WebApp.csproj",
+        "projectName": "WebApp",
+        "projectPath": "D:\\mobzone\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\lbalakrishnan\\.nuget\\packages\\",
+        "outputPath": "D:\\mobzone\\WebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lbalakrishnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\mobzone\\ProductCatalog.API\\ProductCatalog.API.csproj": {
+                "projectPath": "D:\\mobzone\\ProductCatalog.API\\ProductCatalog.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
